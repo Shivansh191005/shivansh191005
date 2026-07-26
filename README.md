@@ -8,6 +8,7 @@
   <a href="mailto:arorashivansh20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/shivanshhhhh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Shivansh191005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/shivansh1910/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="#-about-me"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
@@ -179,7 +180,7 @@ competencies = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 📊 GitHub Analytics
+## 📊 GitHub & LeetCode Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shivansh191005&show_icons=true&theme=radical&hide_border=true" alt="Shivansh's GitHub Stats" />
@@ -188,6 +189,7 @@ competencies = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh191005&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://leetcard.jacoblin.cool/shivansh1910?theme=radical&font=Fira%20Code&ext=heatmap" alt="Shivansh's LeetCode Stats" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -198,3 +200,4 @@ competencies = {
 📧 **Email:** [arorashivansh20@gmail.com](mailto:arorashivansh20@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/shivanshhhhh](https://www.linkedin.com/in/shivanshhhhh)  
 💻 **GitHub:** [github.com/Shivansh191005](https://github.com/Shivansh191005)  
+🏆 **LeetCode:** [leetcode.com/u/shivansh1910](https://leetcode.com/u/shivansh1910/)  
